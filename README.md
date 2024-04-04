@@ -10,3 +10,7 @@ The main new features provided by the upgrade from 3.0 to 3.0.1  are
 
 https://github.com/ga-zelle/autoISF/assets/50909826/1d05732f-2eee-468c-a6df-3a2698f9e07b
 
+
+
+https://github.com/ga-zelle/autoISF/assets/50909826/febffaf8-e5a3-4435-9e8b-8c24cb5c8830
+
