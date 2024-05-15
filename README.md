@@ -7,9 +7,3 @@ Beware that in Android Studio you first start with its related master branch, wa
 The main new features provided by the upgrade from 3.0 to 3.0.1  are
 * ...
 
-
-https://github.com/ga-zelle/autoISF/blob/A3.2.0.4_ai3.0.1-dev/Libre_serpent.mp4
-
-https://github.com/ga-zelle/autoISF/assets/50909826/1d05732f-2eee-468c-a6df-3a2698f9e07b
-
-https://github.com/ga-zelle/autoISF/blob/A3.2.0.4_ai3.0.1-dev/smooth1x10m_S20FE.avi
