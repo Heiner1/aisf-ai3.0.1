@@ -8,7 +8,7 @@ The main new features provided by the upgrade from 3.0 to 3.0.1 are.
 * Merging the research Libre branch into mainmstream
 * 5 settings were withdrawn because over time it proved they were not really necessary
 * In the SMB tab the script debug section is now shown first
-* Now 99 logfiles instead of just 30 will be kept before getting recycled
+* Now 100 logfiles instead of just 30 will be kept before getting recycled
 * The SMB tab shows the current value of *iob_threshold_percentage* and how it was adapted to become the effective iob threshold
 
 For details of these see the Preface in the Quick Guide.
