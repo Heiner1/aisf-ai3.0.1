@@ -2,8 +2,4 @@ The new guide comes in the form of an e-Book for Full Closed Loop and can now be
 
 https://github.com/bernie4375/FCL-potential-autoISF-research-
 
-Wer es lieber auf Deutsch studieren möchte, kann die vorherige Version nutzen. 
-Die enthält allerdigs nicht die Hinweise zu den neuen Möglichkeiten im autoISF3.0 
-wie automatische Anpassung der iobTH-Schwelle bei diversen Aktivitäten.
-
-https://github.com/ga-zelle/autoISF/blob/A3.2.0.2_ai3.0/BerNie's%20%20Anleitung%20Full-Loop_V1.pdf
+You should check for which branch there covers which autoISF and emulator releases
